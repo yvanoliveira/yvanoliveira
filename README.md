@@ -20,6 +20,9 @@
 
 <hr>
 <h3 align="left">Languages and Tools:</h3>
+
+<br/>
+
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30"/></code></a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><code><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="30" height="30"/></code></a> 
@@ -34,8 +37,6 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"></a><code><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="30" height="30"/></code></a> 
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><code><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30"/></code></a>
   </p>
-
-<br/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yvanoliveira&show_icons=true&theme=github_dark&locale=en&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" alt="yvanoliveira"/></p>
 
