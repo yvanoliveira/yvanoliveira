@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Yvan Oliveira</h1>
 <h3 align="center">Interested in data science and data analysis in digital world.</h3>
 
-- 🔭 I’m currently working on **Python Frameworks**
+- 🔭 I’m currently working on **Python Frameworks**.
 
-- 🌱 I’m currently learning **Python Frameworks and Machine Learning techniques.**
+- 🌱 I’m currently learning **Python Frameworks and Machine Learning techniques**.
 
-- 👯 I’m also sharing content of my **Data Science Postgraduate Course**
+- 👯 I’m also sharing content of my **Data Science Postgraduate Course**.
 
 - 💬 Ask me about **Python, Excel and Looker Studio.**
 
-- 📫 How to reach me **yvan_oliveira@outlook.com**
+- 📫 How to reach me: **yvan_oliveira@outlook.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/yvanoliveira/](https://www.linkedin.com/in/yvanoliveira/)
+- 📄 Know about my experiences: [https://www.linkedin.com/in/yvanoliveira/](https://www.linkedin.com/in/yvanoliveira/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
