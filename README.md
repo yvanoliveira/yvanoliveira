@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Python Frameworks and Machine Learning techniques**.
 
-- 👯 I’m also sharing content of my **Data Science Postgraduate Course**.
+- 🔁 I’m also sharing content of my **Data Science Postgraduate Course**.
 
 - 💬 Ask me about **Python, Excel and Looker Studio.**
 
