@@ -38,3 +38,17 @@
 <br/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yvanoliveira&show_icons=true&theme=github_dark&locale=en&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" alt="yvanoliveira"/></p>
+
+<hr>
+
+<h2 align="right">Repositories:</h2>
+<br>
+<div width="100%" align="left">
+  <a align="left" href="https://github.com/yvanoliveira/tcc" title="Final Project of Graduation"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yvanoliveira&repo=tcc&theme=github_dark&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/yvanoliveira/mechanics" title="Mechanics"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yvanoliveira&repo=mechanics&theme=github_dark&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+ <!--
+<div width="100%" align="left">
+  <a align="left" href="https://github.com/yvanoliveira/tcc" title="Final Project of Graduation"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yvanoliveira&repo=tcc&theme=github_dark&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/yvanoliveira/mechanics" title="Mechanics"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yvanoliveira&repo=mechanics&theme=github_dark&border_color=61dafb&border_radius=10"></a>
+</div>
+-->
