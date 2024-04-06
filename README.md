@@ -36,4 +36,4 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><code><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></code></a>
   </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yvanoliveira&show_icons=true&locale=en&layout=compact" alt="yvanoliveira" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yvanoliveira&show_icons=true&locale=en&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" alt="yvanoliveira"/></p>
