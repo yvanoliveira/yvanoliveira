@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Yvan Oliveira</h1>
-<h3 align="center">Interested in data science and data analysis in digital world.</h3>
+<h1 align="left">Hi 👋, I'm Yvan Oliveira</h1>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yvanoliveira)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/yvan.oliveira)
+
+
+<h3 align="left">Interested in data science and data analysis in digital world.</h3>
+
 
 - 🔭 I’m currently working on **Python Frameworks**.
 
@@ -13,12 +19,6 @@
 
 - 📄 Know about my experiences: [https://www.linkedin.com/in/yvanoliveira/](https://www.linkedin.com/in/yvanoliveira/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yvanoliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yvanoliveira" height="30" width="40" /></a>
-<a href="https://fb.com/oliveirayvan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oliveirayvan" height="30" width="40" /></a>
-<a href="https://instagram.com/yvan.oliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yvan.oliveira" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
