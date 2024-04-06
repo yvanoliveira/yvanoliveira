@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4305f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/yvan.oliveira)
 
 
-<h3 align="left">Interested in data science and data analysis in digital world.</h3>
+<p align="left">Interested in data science and data analysis in digital world.</p>
 
 
 - 🔭 I’m currently working on **Python Frameworks**.
@@ -35,4 +35,6 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><code><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30"/></code></a>
   </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yvanoliveira&show_icons=true&locale=en&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" alt="yvanoliveira"/></p>
+<br/>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yvanoliveira&show_icons=true&theme=github_dark&locale=en&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" alt="yvanoliveira"/></p>
