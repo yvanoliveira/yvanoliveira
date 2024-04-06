@@ -17,7 +17,6 @@
 
 - 📫 How to reach me: **yvan_oliveira@outlook.com**
 
-- 📄 Know about my experiences: [https://www.linkedin.com/in/yvanoliveira/](https://www.linkedin.com/in/yvanoliveira/)
 
 
 <h3 align="left">Languages and Tools:</h3>
