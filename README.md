@@ -1,5 +1,5 @@
 <h1 align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&size=28&pause=1000&color=F7F7F7&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Yvan+Oliveira" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&size=28&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Yvan+Oliveira" alt="Typing SVG" /></a>
 </h1>
 
 
@@ -41,7 +41,7 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><code><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30"/></code></a>
   </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yvanoliveira&show_icons=true&theme=github_dark&locale=en&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" alt="yvanoliveira"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yvanoliveira&show_icons=true&theme=transparent&locale=en&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" alt="yvanoliveira"/></p>
 
 <hr>
 
