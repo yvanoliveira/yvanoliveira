@@ -54,6 +54,7 @@
 </p>
 
 <br></br><br></br>
+</br>
 
 <p align="left">
   <a align="left" href="https://github.com/yvanoliveira/ipp_projects" title="Postgraduate projects"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yvanoliveira&repo=ipp_projects&theme=github_dark&border_color=61dafb&border_radius=2">
