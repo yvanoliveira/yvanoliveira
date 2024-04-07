@@ -48,10 +48,8 @@
 <h3 align="left">Repositories:</h3>
 <br>
 <p align="left">
-  <a href="https://github.com/yvanoliveira/final_project_graduation/" title="Final Project of Graduation"><img height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=yvanoliveira&repo=final_project_graduation&theme=github_dark&border_color=61dafb&border_radius=5"></a>
-  <a href="https://github.com/yvanoliveira/mechanics/" title="Mechanics"><img height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=yvanoliveira&repo=mechanics&theme=github_dark&border_color=61dafb&border_radius=5"></a>
-  <a href="https://github.com/yvanoliveira/ipp_projects" title="Postgraduate projects"><img height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=yvanoliveira&repo=ipp_projects&theme=github_dark&border_color=61dafb&border_radius=5">
-  </a>
-  <a href="https://github.com/yvanoliveira/exploratory_data" title="Exploring data"><img height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=yvanoliveira&repo=exploratory_data&theme=github_dark&border_color=61dafb&border_radius=5">
-  </a>
+  <a href="https://github.com/yvanoliveira/final_project_graduation/" title="Final Project of Graduation"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yvanoliveira&repo=final_project_graduation&theme=github_dark&border_color=61dafb&hide_border=true&border_radius=5"></a>
+  <a href="https://github.com/yvanoliveira/mechanics/" title="Mechanics"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yvanoliveira&repo=mechanics&theme=github_dark&border_color=61dafb&hide_border=true&border_radius=5"></a>
+  <a href="https://github.com/yvanoliveira/ipp_projects" title="Postgraduate projects"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yvanoliveira&repo=ipp_projects&theme=github_dark&border_color=61dafb&hide_border=true&border_radius=5"></a>
+  <a href="https://github.com/yvanoliveira/exploratory_data" title="Exploring data"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yvanoliveira&repo=exploratory_data&theme=github_dark&border_color=61dafb&hide_border=true&border_radius=5"></a>
 </p>
