@@ -53,9 +53,8 @@
   <a align="right" href="https://github.com/yvanoliveira/mechanics/" title="Mechanics"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yvanoliveira&repo=mechanics&theme=github_dark&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
- <!--
+ 
 <div width="100%" align="left">
-  <a align="left" href="https://github.com/yvanoliveira/tcc" title="Final Project of Graduation"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yvanoliveira&repo=tcc&theme=github_dark&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/yvanoliveira/mechanics" title="Mechanics"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yvanoliveira&repo=mechanics&theme=github_dark&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/yvanoliveira/ipp_projects" title="Postgraduate projects"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yvanoliveira&repo=ipp_projects&theme=github_dark&border_color=61dafb&border_radius=10">
 </div>
--->
 </p>
