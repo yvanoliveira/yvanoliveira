@@ -49,15 +49,15 @@
 <br>
 <p align="left">
 <!--<div width="100%" align="center">-->
-  <a  align="left" href="https://github.com/yvanoliveira/final_project_graduation/" title="Final Project of Graduation"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yvanoliveira&repo=final_project_graduation&theme=github_dark&border_color=61dafb&border_radius=2"></a>
-  <a  align="right" href="https://github.com/yvanoliveira/mechanics/" title="Mechanics"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yvanoliveira&repo=mechanics&theme=github_dark&border_color=61dafb&border_radius=2"></a>
+  <a  align="left" href="https://github.com/yvanoliveira/final_project_graduation/" title="Final Project of Graduation"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yvanoliveira&repo=final_project_graduation&theme=github_dark&border_color=61dafb&border_radius=5"></a>
+  <a  align="right" href="https://github.com/yvanoliveira/mechanics/" title="Mechanics"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yvanoliveira&repo=mechanics&theme=github_dark&border_color=61dafb&border_radius=5"></a>
 </p>
 
 <br></br><br></br>
 </br>
 
 <p align="left">
-  <a align="left" href="https://github.com/yvanoliveira/ipp_projects" title="Postgraduate projects"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yvanoliveira&repo=ipp_projects&theme=github_dark&border_color=61dafb&border_radius=2">
+  <a align="left" href="https://github.com/yvanoliveira/ipp_projects" title="Postgraduate projects"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yvanoliveira&repo=ipp_projects&theme=github_dark&border_color=61dafb&border_radius=5">
 <!--</div>-->
   </a>
 </p>
