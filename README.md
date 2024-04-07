@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Python Frameworks and Machine Learning techniques**.
 
-- 🔁 I’m also sharing content of my **Data Science Postgraduate Course**.
+- 🔁 I’m also sharing content of my  <a href="https://github.com/yvanoliveira/ipp_projects" title="Postgraduate projects">**Data Science Postgraduate Course**</a>.
 
 - 💬 Ask me about **Python, Excel and Looker Studio.**
 
