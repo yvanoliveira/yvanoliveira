@@ -41,17 +41,17 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><code><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30"/></code></a>
   </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yvanoliveira&show_icons=true&theme=transparent&locale=en&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" alt="yvanoliveira"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yvanoliveira&show_icons=true&theme=github_dark&locale=en&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" alt="yvanoliveira"/></p>
 
 <hr>
 
 <h3 align="left">Repositories:</h3>
 <br>
 <p align="left">
-  <a href="https://github.com/yvanoliveira/final_project_graduation/" title="Final Project of Graduation"><img height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=yvanoliveira&repo=final_project_graduation&theme=transparent&border_color=61dafb&border_radius=5"></a>
-  <a href="https://github.com/yvanoliveira/mechanics/" title="Mechanics"><img height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=yvanoliveira&repo=mechanics&theme=transparent&border_color=61dafb&border_radius=5"></a>
-  <a href="https://github.com/yvanoliveira/ipp_projects" title="Postgraduate projects"><img height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=yvanoliveira&repo=ipp_projects&theme=transparent&border_color=61dafb&border_radius=5">
+  <a href="https://github.com/yvanoliveira/final_project_graduation/" title="Final Project of Graduation"><img height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=yvanoliveira&repo=final_project_graduation&theme=github_dark&border_color=61dafb&border_radius=5"></a>
+  <a href="https://github.com/yvanoliveira/mechanics/" title="Mechanics"><img height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=yvanoliveira&repo=mechanics&theme=github_dark&border_color=61dafb&border_radius=5"></a>
+  <a href="https://github.com/yvanoliveira/ipp_projects" title="Postgraduate projects"><img height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=yvanoliveira&repo=ipp_projects&theme=github_dark&border_color=61dafb&border_radius=5">
   </a>
-  <a href="https://github.com/yvanoliveira/exploratory_data" title="Exploring data"><img height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=yvanoliveira&repo=exploratory_data&theme=transparent&border_color=61dafb&border_radius=5">
+  <a href="https://github.com/yvanoliveira/exploratory_data" title="Exploring data"><img height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=yvanoliveira&repo=exploratory_data&theme=github_dark&border_color=61dafb&border_radius=5">
   </a>
 </p>
